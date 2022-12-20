@@ -4,6 +4,6 @@
  
 # Tecnologias
   
- - NodeJS
- - Express
+ - [NodeJS](https://nodejs.org/en/)
+ - [Express](https://expressjs.com/pt-br/)
 
