@@ -1,6 +1,6 @@
 # Desafio 1 - Conceitos do NodeJS
 
- - Este projeto foi desenvolvido na trilha de NodeJS da Rocketseat.
+ - Este projeto foi desenvolvido durante a trilha de NodeJS da Rocketseat.
  
 # Tecnologias
   
