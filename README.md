@@ -2,7 +2,7 @@
 
  - Este projeto foi desenvolvido no Ignite da Rocketseat durante a trilha de NodeJS.
  
-# Tecnologias
+## Tecnologias
   
  - [NodeJS](https://nodejs.org/en/)
  - [Express](https://expressjs.com/pt-br/)
